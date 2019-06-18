@@ -1,0 +1,1302 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                                ANES2016 Admin Dates
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ANES2016 Admin Dates                                              Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      CASEID             ID Number                                           1
+      v161003            PRE: How often does R pay attn to politics and e    1
+      v161004            PRE: How interested in following campaigns          1
+      v161006            PRE: Recall of last (2012) Presidential vote cho    2
+      v161008            PRE: Days in week watch/listen/read news on any     2
+      v161126            PRE: 7pt scale Liberal conservative self-placeme    3
+      v161141            PRE: Economy better or worse in next 12 months      3
+      v161143            PRE: More or less unemployment in next year         3
+      v161153            PRE: Country would be better off if we just stay    4
+      v161155            PRE: Party ID: Does R think of self as Dem, Rep,    4
+      v161192            PRE: U.S. government policy toward unauthorized     4
+      v161194x           PRE: SUMMARY - birthright citizenship               5
+      v161195x           PRE: SUMMARY - Children brought illegally           5
+      v161196x           PRE: SUMMARY - Build wall with Mexico               6
+      v161197            PRE: How important to speak English in US           6
+      v161265x           PRE: SUMMARY - Major group religion summary         6
+      v161267x           PRE: SUMMARY - Respondent age group                 7
+      v161270            PRE: Highest level of Education                     8
+      v161310x           PRE: SUMMARY - R self-identified race               8
+      v161315            PRE: Native status of parents                       9
+      v161342            PRE FTF CASI / WEB: R self-identified gender        9
+      v161361x           PRE FTF CASI/WEB: Pre income summary               10
+      v161370            PRE FTF CASI/WEB: Mention: TV PROG Hannity         11
+      v161381            PRE FTF CASI/WEB: Mention: TV PROG Anderson Coop   11
+      v161390            PRE FTF CASI/WEB: Mention: TV PROG NBC Nightly N   11
+      v161391            PRE FTF CASI/WEB: Mention: TV PROG On the Record   12
+      v161393            PRE FTF CASI/WEB: Mention: TV PROG The Rachel Ma   12
+      v161399            PRE FTF CASI/WEB: Mention: TV PROG Dateline NBC    12
+      v161403            PRE FTF CASI/WEB: Mention: TV PROG Nancy Grace     13
+      v161404            PRE FTF CASI/WEB: Mention: TV PROG Erin Burnett    13
+      v161409            PRE FTF CASI/WEB: Mention: TV PROG The O'Reilly    13
+      v161428            PRE FTF CASI/WEB: Mention: Radio PROG Rush Limba   14
+      v161430            PRE FTF CASI/WEB: Mention: Radio PROG The Sean H   14
+      v161433            PRE FTF CASI/WEB: Mention: Radio PROG The Glenn    14
+      v161435            PRE FTF CASI/WEB: Mention: Radio PROG The Savage   15
+      v161445            PRE FTF CASI/WEB: Mention: Website CNN.com         15
+      v161446            PRE FTF CASI/WEB: Mention: Website NBC News (www   15
+      v161447            PRE FTF CASI/WEB: Mention: Website Huffington Po   16
+      v161450            PRE FTF CASI/WEB: Mention: Website Buzzfeed.com    16
+      v161451            PRE FTF CASI/WEB: Mention New York Times (nytime   16
+      v161452            PRE FTF CASI/WEB: Mention: Website Fox News (www   17
+      v161453            PRE FTF CASI/WEB: Mention: Website Mail Online /   17
+      v161454            PRE FTF CASI/WEB: Mention: Website Washington Po   17
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page ii
+
+
+      item                                                                page
+
+      v161457            PRE FTF CASI/WEB: Mention: Website The Guardian    18
+      v161469            PRE FTF CASI/WEB: Mention: Printed newspaper The   18
+      v161470            PRE FTF CASI/WEB: Mention: Printed newspaper USA   18
+      v161471            PRE FTF CASI/WEB: Mention: Printed newspaper The   19
+      v161472            PRE FTF CASI/WEB: Mention: Printed newspaper The   19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 1
+
+
+      CASEID             ID Number
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/1-6
+
+      ________________________________________________________________________
+
+      v161003            PRE: How often does R pay attn to politics and elections
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Always
+               2  2. Most of the time
+               3  3. About half the time
+               4  4. Some of the time
+               5  5. Never
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/column: 1/8
+
+      ________________________________________________________________________
+
+      v161004            PRE: How interested in following campaigns
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Very much interested
+               2  2. Somewhat interested
+               3  3. Not much interested
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/column: 1/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 2
+
+
+      v161006            PRE: Recall of last (2012) Presidential vote choice
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+              -1  -1. Inap, 2,-8,-9 in V161005
+               1  1. Barack Obama
+               2  2. Mitt Romney
+               5  5. Other SPECIFY
+               6  6. Other specify - specified as:  Did not vote/did not vote for President in 2012
+               8  8. Other specify - specified as: DK/don't remember (Web only)
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/12-13
+
+      ________________________________________________________________________
+
+      v161008            PRE: Days in week watch/listen/read news on any media
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               0  0. None
+               1  1. One day
+               2  2. Two days
+               3  3. Three days
+               4  4. Four days
+               5  5. Five days
+               6  6. Six days
+               7  7. Seven days
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/15-16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 3
+
+
+      v161126            PRE: 7pt scale Liberal conservative self-placement
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Extremely liberal
+               2  2. Liberal
+               3  3. Slightly liberal
+               4  4. Moderate, middle of the road
+               5  5. Slightly conservative
+               6  6. Conservative
+               7  7. Extremely conservative
+              99  99. Haven't thought much about this (FTF ONLY: DO NOT PROBE)
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/18-19
+
+      ________________________________________________________________________
+
+      v161141            PRE: Economy better or worse in next 12 months
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Get better
+               2  2. Stay about the same
+               3  3. Get worse
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/21-22
+
+      ________________________________________________________________________
+
+      v161143            PRE: More or less unemployment in next year
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. More
+               2  2. About the same
+               3  3. Less
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/24-25
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 4
+
+
+      v161153            PRE: Country would be better off if we just stayed home
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Agree
+               2  2. Disagree
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/27-28
+
+      ________________________________________________________________________
+
+      v161155            PRE: Party ID: Does R think of self as Dem, Rep, Ind or what
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               0  0. No preference (FTF ONLY)
+               1  1. Democrat
+               2  2. Republican
+               3  3. Independent
+               5  5. Other party SPECIFY
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/30-31
+
+      ________________________________________________________________________
+
+      v161192            PRE: U.S. government policy toward unauthorized immigrants
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Make all unauthorized immigrants felons and send them back to their home country.
+               2  2. Have a guest worker program in order to work
+               3  3. Allow to remain and eventually qualify for U.S. citizenship, if they meet
+               4  4. Allow to remain and eventually qualify for U.S. citizenship without penalties.
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/33-34
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 5
+
+
+      v161194x           PRE: SUMMARY - birthright citizenship
+
+           VALUE  LABEL
+              -9  -9. RF (-9) in V161193 or V161193a
+              -8  -8. DK (-8) in V161193 or V161193a (FTF only)
+               1  1. Favor a great deal
+               2  2. Favor a moderate amount
+               3  3. Favor a little
+               4  4. Neither favor nor oppose
+               5  5. Oppose a little
+               6  6. Oppose a moderate amount
+               7  7. Oppose a great deal
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/36-37
+
+      ________________________________________________________________________
+
+      v161195x           PRE: SUMMARY - Children brought illegally
+
+           VALUE  LABEL
+              -9  -9. RF (-9) in V161193 or V161193a
+              -8  -8. DK (-8) in V161193 or V161193a (FTF only)
+               1  1. Should send back - favor a great deal
+               2  2. Should send back - favor a moderate amount
+               3  3. Should send back - favor a little
+               4  4. Should allow to stay - favor a little
+               5  5. Should allow to stay - favor a moderate amount
+               6  6. Should allow to stay - favor a great deal
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/39-40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 6
+
+
+      v161196x           PRE: SUMMARY - Build wall with Mexico
+
+           VALUE  LABEL
+              -9  -9. RF (-9) in V161196 or V161196a
+              -8  -8. DK (-8) in V161196 or V161196a (FTF only)
+               1  1. Favor a great deal
+               2  2. Favor a moderate amount
+               3  3. Favor a little
+               4  4. Neither favor nor oppose
+               5  5. Oppose a little
+               6  6. Oppose a moderate amount
+               7  7. Oppose a great deal
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/42-43
+
+      ________________________________________________________________________
+
+      v161197            PRE: How important to speak English in US
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Very important
+               2  2. Somewhat important
+               3  3. Not very important
+               4  4. Not at all important
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/45-46
+
+      ________________________________________________________________________
+
+      v161265x           PRE: SUMMARY - Major group religion summary
+
+           VALUE  LABEL
+              -2  -2. Coded major group religion summary available in full release
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/48-49
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 7
+
+
+      v161267x           PRE: SUMMARY - Respondent age group
+
+           VALUE  LABEL
+              -1  -1. INAP, birthyear missing
+               1  01. Age group 18-20
+               2  02. Age group 21-24
+               3  03. Age group 25-29
+               4  04. Age group 30-34
+               5  05. Age group 35-39
+               6  06. Age group 40-44
+               7  07. Age group 45-49
+               8  08. Age group 50-54
+               9  09. Age group 55-59
+              10  10. Age group 60-64
+              11  11. Age group 65-69
+              12  12. Age group 70-74
+              13  13. Age group 75 or older
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/51-52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 8
+
+
+      v161270            PRE: Highest level of Education
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Less than 1st grade
+               2  2. 1st, 2nd, 3rd or 4th grade
+               3  3. 5th or 6th grade
+               4  4. 7th or 8th grade
+               5  5. 9th grade
+               6  6. 10th grade
+               7  7. 11th grade
+               8  8. 12th grade no diploma
+               9  9. High school graduate- high school diploma or equivalent (for example: GED)
+              10  10. Some college but no degree
+              11  11. Associate degree in college - occupational/vocational program
+              12  12. Associate degree in college -- academic program
+              13  13. Bachelor's degree (for example: BA, AB, BS)
+              14  14. Master's degree (for example: MA, MS, MENG, MED, MSW, MBA)
+              15  15. Professional school degree (for example: MD, DDS, DVM, LLB, JD)
+              16  16. Doctorate degree (for example: PHD, EDD)
+              90  90. Other specify given as: high school graduate
+              95  95. Other SPECIFY
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Maximum code defined as valid: 16
+           Record/columns: 1/54-55
+
+      ________________________________________________________________________
+
+      v161310x           PRE: SUMMARY - R self-identified race
+
+           VALUE  LABEL
+              -9  -9. Missing
+               1  1. White, non-Hispanic
+               2  2. Black, non-Hispanic
+               3  3. Asian, native Hawaiian or other Pacif Islr,non-Hispanic
+               4  4. Native American or Alaska Native, non-Hispanic
+               5  5. Hispanic
+               6  6. Other non-Hispanic incl multiple races
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/57-58
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                              Page 9
+
+
+      v161315            PRE: Native status of parents
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Both parents born in the U.S.
+               2  2. One parent born in the U.S.
+               3  3. Both parents born in another country
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/60-61
+
+      ________________________________________________________________________
+
+      v161342            PRE FTF CASI / WEB: R self-identified gender
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -8  -8. Don't know (FTF only)
+               1  1. Male
+               2  2. Female
+               3  3. Other
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/63-64
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 10
+
+
+      v161361x           PRE FTF CASI/WEB: Pre income summary
+
+           VALUE  LABEL
+              -9  -9. Refused
+              -5  -5. Interview breakoff (sufficient partial IW)
+               1  01. Under $5,000
+               2  02. $5,000-$9,999
+               3  03. $10,000-$12,499
+               4  04. $12,500-$14,999
+               5  05. $15,000-$17,499
+               6  06. $17,500-$19,999
+               7  07. $20,000-$22,499
+               8  08. $22,500-$24,999
+               9  09. $25,000-$27,499
+              10  10. $27,500-$29,999
+              11  11. $30,000-$34,999
+              12  12. $35,000-$39,999
+              13  13. $40,000-$44,999
+              14  14. $45,000-$49,999
+              15  15. $50,000-$54,999
+              16  16. $55,000-$59,999
+              17  17. $60,000-$64,999
+              18  18. $65,000-$69,999
+              19  19. $70,000-$74,999
+              20  20. $75,000-$79,999
+              21  21. $80,000-$89,999
+              22  22. $90,000-$99,999
+              23  23. $100,000-$109,999
+              24  24. $110,000-$124,999
+              25  25. $125,000-$149,999
+              26  26. $150,000-$174,999
+              27  27. $175,000-$249,999
+              28  28. $250,000 or more
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/66-67
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 11
+
+
+      v161370            PRE FTF CASI/WEB: Mention: TV PROG Hannity
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/69-70
+
+      ________________________________________________________________________
+
+      v161381            PRE FTF CASI/WEB: Mention: TV PROG Anderson Cooper 360
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/72-73
+
+      ________________________________________________________________________
+
+      v161390            PRE FTF CASI/WEB: Mention: TV PROG NBC Nightly News with Lester Holt
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/75-76
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 12
+
+
+      v161391            PRE FTF CASI/WEB: Mention: TV PROG On the Record with Greta Van Susteren
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/78-79
+
+      ________________________________________________________________________
+
+      v161393            PRE FTF CASI/WEB: Mention: TV PROG The Rachel Maddow Show
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/81-82
+
+      ________________________________________________________________________
+
+      v161399            PRE FTF CASI/WEB: Mention: TV PROG Dateline NBC
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/84-85
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 13
+
+
+      v161403            PRE FTF CASI/WEB: Mention: TV PROG Nancy Grace
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/87-88
+
+      ________________________________________________________________________
+
+      v161404            PRE FTF CASI/WEB: Mention: TV PROG Erin Burnett OutFront
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/90-91
+
+      ________________________________________________________________________
+
+      v161409            PRE FTF CASI/WEB: Mention: TV PROG The O'Reilly Factor
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/93-94
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 14
+
+
+      v161428            PRE FTF CASI/WEB: Mention: Radio PROG Rush Limbaugh
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363e
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/96-97
+
+      ________________________________________________________________________
+
+      v161430            PRE FTF CASI/WEB: Mention: Radio PROG The Sean Hannity Show
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363e
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/99-100
+
+      ________________________________________________________________________
+
+      v161433            PRE FTF CASI/WEB: Mention: Radio PROG The Glenn Beck Program
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363e
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/102-103
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 15
+
+
+      v161435            PRE FTF CASI/WEB: Mention: Radio PROG The Savage Nation (Michael Savage)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363e
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/105-106
+
+      ________________________________________________________________________
+
+      v161445            PRE FTF CASI/WEB: Mention: Website CNN.com
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/108-109
+
+      ________________________________________________________________________
+
+      v161446            PRE FTF CASI/WEB: Mention: Website NBC News (www.nbcnews.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/111-112
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 16
+
+
+      v161447            PRE FTF CASI/WEB: Mention: Website Huffington Post (www.huffingtonpost.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/114-115
+
+      ________________________________________________________________________
+
+      v161450            PRE FTF CASI/WEB: Mention: Website Buzzfeed.com
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/117-118
+
+      ________________________________________________________________________
+
+      v161451            PRE FTF CASI/WEB: Mention New York Times (nytimes.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/120-121
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 17
+
+
+      v161452            PRE FTF CASI/WEB: Mention: Website Fox News (www.foxnews.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/123-124
+
+      ________________________________________________________________________
+
+      v161453            PRE FTF CASI/WEB: Mention: Website Mail Online / Daily Mail (dailymail.co.uk)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/126-127
+
+      ________________________________________________________________________
+
+      v161454            PRE FTF CASI/WEB: Mention: Website Washington Post (washingtonpost.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/129-130
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 18
+
+
+      v161457            PRE FTF CASI/WEB: Mention: Website The Guardian (theguardian.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/132-133
+
+      ________________________________________________________________________
+
+      v161469            PRE FTF CASI/WEB: Mention: Printed newspaper The New York Times
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/135-136
+
+      ________________________________________________________________________
+
+      v161470            PRE FTF CASI/WEB: Mention: Printed newspaper USA Today
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/138-139
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018
+
+
+
+      ANES2016 Admin Dates                                             Page 19
+
+
+      v161471            PRE FTF CASI/WEB: Mention: Printed newspaper The Wall Street News
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/141-142
+
+      ________________________________________________________________________
+
+      v161472            PRE FTF CASI/WEB: Mention: Printed newspaper The Washington Post
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/144-145
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 December 12, 2018

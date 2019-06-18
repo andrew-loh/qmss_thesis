@@ -1,0 +1,32 @@
+                      OLS Regression Results                     
+Dep. Variable:   ,immopi          ,  R-squared:         ,   0.902
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.901
+Method:          ,Least Squares   ,  F-statistic:       ,   1887.
+Date:            ,Sat, 06 Apr 2019,  Prob (F-statistic):,  0.00  
+Time:            ,11:50:05        ,  Log-Likelihood:    , -4432.7
+No. Observations:,  2887          ,  AIC:               ,   8893.
+Df Residuals:    ,  2873          ,  BIC:               ,   8977.
+Df Model:        ,    14          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+  ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+0 ,   -1.3551,    0.790,   -1.716, 0.086,   -2.904,    0.194
+1 ,   10.2210,    2.989,    3.420, 0.001,    4.361,   16.081
+10,    3.6376,    4.180,    0.870, 0.384,   -4.558,   11.833
+11,    2.6720,    0.398,    6.722, 0.000,    1.893,    3.451
+12,    3.1041,    2.512,    1.236, 0.217,   -1.821,    8.029
+13,   13.5408,    0.624,   21.699, 0.000,   12.317,   14.764
+14,    1.4591,    0.234,    6.236, 0.000,    1.000,    1.918
+2 ,   18.0262,    6.548,    2.753, 0.006,    5.187,   30.865
+3 ,  -12.6049,    5.289,   -2.383, 0.017,  -22.975,   -2.235
+4 ,   13.1427,    1.969,    6.676, 0.000,    9.283,   17.003
+5 ,   13.6176,    1.901,    7.164, 0.000,    9.890,   17.345
+6 ,   -5.9063,    1.065,   -5.544, 0.000,   -7.995,   -3.817
+7 ,    5.5027,    0.178,   30.892, 0.000,    5.153,    5.852
+8 ,    1.1609,    1.884,    0.616, 0.538,   -2.534,    4.856
+Omnibus:      ,157.606,  Durbin-Watson:     ,   2.036
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  , 220.745
+Skew:         , 0.494 ,  Prob(JB):          ,1.16e-48
+Kurtosis:     , 3.927 ,  Cond. No.          ,    133.
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,773 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                                ANES2016 Admin Dates
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ANES2016 Admin Dates                                              Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      CASEID             ID Number                                           1
+      v161194x           PRE: SUMMARY - birthright citizenship               1
+      v161195x           PRE: SUMMARY - Children brought illegally           1
+      v161196x           PRE: SUMMARY - Build wall with Mexico               2
+      v161363a           PRE FTF CASI/WEB: Mention: Television news progr    2
+      v161363b           PRE FTF CASI/WEB: Mention: Newspapers               2
+      v161363c           PRE FTF CASI/WEB: Mention: Television talk shows    3
+      v161363d           PRE FTF CASI/WEB: Mention: Internet sites, chat     3
+      v161365            PRE FTF CASI/WEB: Mention: TV PROG All In with C    3
+      v161370            PRE FTF CASI/WEB: Mention: TV PROG Hannity          4
+      v161380            PRE FTF CASI/WEB: Mention: TV PROG 60 Minutes       4
+      v161381            PRE FTF CASI/WEB: Mention: TV PROG Anderson Coop    4
+      v161384            PRE FTF CASI/WEB: Mention: TV PROG Face the Nati    5
+      v161386            PRE FTF CASI/WEB: Mention: TV PROG Hardball with    5
+      v161390            PRE FTF CASI/WEB: Mention: TV PROG NBC Nightly N    5
+      v161391            PRE FTF CASI/WEB: Mention: TV PROG On the Record    6
+      v161393            PRE FTF CASI/WEB: Mention: TV PROG The Rachel Ma    6
+      v161404            PRE FTF CASI/WEB: Mention: TV PROG Erin Burnett     6
+      v161409            PRE FTF CASI/WEB: Mention: TV PROG The O'Reilly     7
+      v161445            PRE FTF CASI/WEB: Mention: Website CNN.com          7
+      v161451            PRE FTF CASI/WEB: Mention New York Times (nytime    7
+      v161453            PRE FTF CASI/WEB: Mention: Website Mail Online /    8
+      v161454            PRE FTF CASI/WEB: Mention: Website Washington Po    8
+      v161457            PRE FTF CASI/WEB: Mention: Website The Guardian     8
+      v161469            PRE FTF CASI/WEB: Mention: Printed newspaper The    9
+      v161470            PRE FTF CASI/WEB: Mention: Printed newspaper USA    9
+      v161471            PRE FTF CASI/WEB: Mention: Printed newspaper The    9
+      v161472            PRE FTF CASI/WEB: Mention: Printed newspaper The   10
+      v161482            PRE FTF CASI/WEB: Mention: www.nytimes.com (New    10
+      v161483            PRE FTF CASI/WEB: Mention: www.usatoday.com (USA   10
+      v161484            PRE FTF CASI/WEB: Mention: online.wsj.com (Wall    11
+      v161485            PRE FTF CASI/WEB: Mention: www.washingtonpost.co   11
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 1
+
+
+      CASEID             ID Number
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/1-6
+
+      ________________________________________________________________________
+
+      v161194x           PRE: SUMMARY - birthright citizenship
+
+           VALUE  LABEL
+              -9  -9. RF (-9) in V161193 or V161193a
+              -8  -8. DK (-8) in V161193 or V161193a (FTF only)
+               1  1. Favor a great deal
+               2  2. Favor a moderate amount
+               3  3. Favor a little
+               4  4. Neither favor nor oppose
+               5  5. Oppose a little
+               6  6. Oppose a moderate amount
+               7  7. Oppose a great deal
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/8-9
+
+      ________________________________________________________________________
+
+      v161195x           PRE: SUMMARY - Children brought illegally
+
+           VALUE  LABEL
+              -9  -9. RF (-9) in V161193 or V161193a
+              -8  -8. DK (-8) in V161193 or V161193a (FTF only)
+               1  1. Should send back - favor a great deal
+               2  2. Should send back - favor a moderate amount
+               3  3. Should send back - favor a little
+               4  4. Should allow to stay - favor a little
+               5  5. Should allow to stay - favor a moderate amount
+               6  6. Should allow to stay - favor a great deal
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/11-12
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 2
+
+
+      v161196x           PRE: SUMMARY - Build wall with Mexico
+
+           VALUE  LABEL
+              -9  -9. RF (-9) in V161196 or V161196a
+              -8  -8. DK (-8) in V161196 or V161196a (FTF only)
+               1  1. Favor a great deal
+               2  2. Favor a moderate amount
+               3  3. Favor a little
+               4  4. Neither favor nor oppose
+               5  5. Oppose a little
+               6  6. Oppose a moderate amount
+               7  7. Oppose a great deal
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/14-15
+
+      ________________________________________________________________________
+
+      v161363a           PRE FTF CASI/WEB: Mention: Television news programs (morning or evening)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/17-18
+
+      ________________________________________________________________________
+
+      v161363b           PRE FTF CASI/WEB: Mention: Newspapers
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/20-21
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 3
+
+
+      v161363c           PRE FTF CASI/WEB: Mention: Television talk shows, public affairs, or news analysis programs
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/23-24
+
+      ________________________________________________________________________
+
+      v161363d           PRE FTF CASI/WEB: Mention: Internet sites, chat rooms, or blogs
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/26-27
+
+      ________________________________________________________________________
+
+      v161365            PRE FTF CASI/WEB: Mention: TV PROG All In with Chris Hayes
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/29-30
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 4
+
+
+      v161370            PRE FTF CASI/WEB: Mention: TV PROG Hannity
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/32-33
+
+      ________________________________________________________________________
+
+      v161380            PRE FTF CASI/WEB: Mention: TV PROG 60 Minutes
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/35-36
+
+      ________________________________________________________________________
+
+      v161381            PRE FTF CASI/WEB: Mention: TV PROG Anderson Cooper 360
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/38-39
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 5
+
+
+      v161384            PRE FTF CASI/WEB: Mention: TV PROG Face the Nation
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/41-42
+
+      ________________________________________________________________________
+
+      v161386            PRE FTF CASI/WEB: Mention: TV PROG Hardball with Chris Matthews
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/44-45
+
+      ________________________________________________________________________
+
+      v161390            PRE FTF CASI/WEB: Mention: TV PROG NBC Nightly News with Lester Holt
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/47-48
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 6
+
+
+      v161391            PRE FTF CASI/WEB: Mention: TV PROG On the Record with Greta Van Susteren
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/50-51
+
+      ________________________________________________________________________
+
+      v161393            PRE FTF CASI/WEB: Mention: TV PROG The Rachel Maddow Show
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/53-54
+
+      ________________________________________________________________________
+
+      v161404            PRE FTF CASI/WEB: Mention: TV PROG Erin Burnett OutFront
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/56-57
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 7
+
+
+      v161409            PRE FTF CASI/WEB: Mention: TV PROG The O'Reilly Factor
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363a and 0,-9 in V161363c
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/59-60
+
+      ________________________________________________________________________
+
+      v161445            PRE FTF CASI/WEB: Mention: Website CNN.com
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/62-63
+
+      ________________________________________________________________________
+
+      v161451            PRE FTF CASI/WEB: Mention New York Times (nytimes.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/65-66
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 8
+
+
+      v161453            PRE FTF CASI/WEB: Mention: Website Mail Online / Daily Mail (dailymail.co.uk)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/68-69
+
+      ________________________________________________________________________
+
+      v161454            PRE FTF CASI/WEB: Mention: Website Washington Post (washingtonpost.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/71-72
+
+      ________________________________________________________________________
+
+      v161457            PRE FTF CASI/WEB: Mention: Website The Guardian (theguardian.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/74-75
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 9
+
+
+      v161469            PRE FTF CASI/WEB: Mention: Printed newspaper The New York Times
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/77-78
+
+      ________________________________________________________________________
+
+      v161470            PRE FTF CASI/WEB: Mention: Printed newspaper USA Today
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/80-81
+
+      ________________________________________________________________________
+
+      v161471            PRE FTF CASI/WEB: Mention: Printed newspaper The Wall Street News
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/83-84
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                             Page 10
+
+
+      v161472            PRE FTF CASI/WEB: Mention: Printed newspaper The Washington Post
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/86-87
+
+      ________________________________________________________________________
+
+      v161482            PRE FTF CASI/WEB: Mention: www.nytimes.com (New York
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/89-90
+
+      ________________________________________________________________________
+
+      v161483            PRE FTF CASI/WEB: Mention: www.usatoday.com (USA
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/92-93
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019
+
+
+
+      ANES2016 Admin Dates                                             Page 11
+
+
+      v161484            PRE FTF CASI/WEB: Mention: online.wsj.com (Wall Street Journal)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/95-96
+
+      ________________________________________________________________________
+
+      v161485            PRE FTF CASI/WEB: Mention: www.washingtonpost.com (Washington Post)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363b
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/98-99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 13, 2019

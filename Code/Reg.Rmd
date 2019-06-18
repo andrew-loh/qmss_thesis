@@ -1,0 +1,53 @@
+---
+title: "Reg"
+author: "Andrew Loh"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(tidy.opts=list(width.cutoff=60), tidy=TRUE)
+```
+
+```{r}
+df = read.csv("RegVars.csv")
+```
+
+```{r}
+df <- read.csv("Apr13RegDF.csv")
+anes <- read.csv("anes.csv")
+library(dplyr)
+
+names(df) <- c("CASEID", "immopi", "illegchild", "birthcit", "wallmex", "Education", "Voter.Opinion", 
+               "Candidates.debate", "Economic.policy",
+              "Brexit", "Candidates.actions", "Calais.migrant.crisis", "Terrorist.attacks", "Political.leanings",
+              "Family.life", "Syrian.crisis", "Illegal.immigration", "Law.and.justice", "Europe.refugee.crisis",
+              "Space")
+
+lm1 = lm(immopi ~ Education + Voter.Opinion + Terrorist.attacks + Political.leanings + Family.life + Syrian.crisis +
+           Illegal.immigration + Law.and.justice + Europe.refugee.crisis + Candidates.debate + Economic.policy +
+           Brexit + Candidates.actions + Calais.migrant.crisis,
+         data = df)
+```
+
+
+```{r, results = 'asis'}
+library(stargazer)
+stargazer(lm1, single.row = TRUE, title = "Regression Output", header = FALSE)
+
+
+df2 <- df %>% select(c(CASEID, immopi)) %>%
+                       left_join(cbind(anes[2], anes[,10:37]), by="CASEID")
+
+lm2 <- lm(immopi ~ AllInHayes + Hannity + X60Min + Cooper360 + FaceTheNation + HardballMatthews + NBCNightly +
+           Greta.Hume + Maddow + ErinBurnett + OReilly + CNN.com + NYT.com + MailOnline + WaPo.com +
+           Guardian + NYTPrint + USATodayPrint + WSJPrint + WaPoPrint + NYT.com + USATodayOnline + WSJOnline+
+           WaPo.com2 + NBCNews.com + CBSNews.com + Buzzfeed.com + FoxNews.com,
+         data = df2)
+
+
+```
+
+```{r, results = 'asis'}
+stargazer(lm1, lm2, single.row = TRUE, title = "Regression Output", header = FALSE, keep = c("^1"))
+```
+

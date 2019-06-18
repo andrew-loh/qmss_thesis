@@ -1,0 +1,293 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+                                ANES2016 Admin Dates
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ANES2016 Admin Dates                                              Page i
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      CASEID             ID Number                                           1
+      v161444            PRE FTF CASI/WEB: Mention: Website Yahoo News (w    1
+      v161446            PRE FTF CASI/WEB: Mention: Website NBC News (www    1
+      v161447            PRE FTF CASI/WEB: Mention: Website Huffington Po    1
+      v161448            PRE FTF CASI/WEB: Mention: Website CBS News (www    2
+      v161450            PRE FTF CASI/WEB: Mention: Website Buzzfeed.com     2
+      v161452            PRE FTF CASI/WEB: Mention: Website Fox News (www    2
+      v161458            PRE FTF CASI/WEB: Mention: Website ABC News (abc    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 22, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 1
+
+
+      CASEID             ID Number
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/1-6
+
+      ________________________________________________________________________
+
+      v161444            PRE FTF CASI/WEB: Mention: Website Yahoo News (www.yahoo.com/news)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/8-9
+
+      ________________________________________________________________________
+
+      v161446            PRE FTF CASI/WEB: Mention: Website NBC News (www.nbcnews.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/11-12
+
+      ________________________________________________________________________
+
+      v161447            PRE FTF CASI/WEB: Mention: Website Huffington Post (www.huffingtonpost.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/14-15
+
+
+
+
+                                   March 22, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 2
+
+
+      v161448            PRE FTF CASI/WEB: Mention: Website CBS News (www.cbsnews.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/17-18
+
+      ________________________________________________________________________
+
+      v161450            PRE FTF CASI/WEB: Mention: Website Buzzfeed.com
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/20-21
+
+      ________________________________________________________________________
+
+      v161452            PRE FTF CASI/WEB: Mention: Website Fox News (www.foxnews.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/23-24
+
+
+
+
+
+
+
+
+
+
+
+                                   March 22, 2019
+
+
+
+      ANES2016 Admin Dates                                              Page 3
+
+
+      v161458            PRE FTF CASI/WEB: Mention: Website ABC News (abcnews.com)
+
+           VALUE  LABEL
+              -9  -9. Refused question
+              -5  -5. Interview breakoff (sufficient partial IW)
+              -1  -1. INAP, 0,-9 in V161363d
+               0  0. Not selected
+               1  1. Selected
+
+           Data type: numeric
+           Minimum code defined as valid: 0
+           Record/columns: 1/26-27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   March 22, 2019
